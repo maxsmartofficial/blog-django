@@ -1,2 +1,2 @@
 # blog-django
-Blog written in Django
+Basically just a blog written in Django
